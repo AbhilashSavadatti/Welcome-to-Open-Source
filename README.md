@@ -58,7 +58,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <a href="https://github.com/AbhilashSavadatti">
                     <img src="https://avatars.githubusercontent.com/u/92322651?v=4" width="100px;" alt="Ali Solanki"/>
                     <br />
-                    <sub><b>Abhilash Savadatti</b></sub>
+                    <sub><b>Abhilash A Savadatti</b></sub>
                 </a> 
             </td>
             <td align="center">
